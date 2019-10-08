@@ -27,7 +27,7 @@ ls
 hadoop fs -ls /
 ```
 
-- ### create a dir in default path
+- ### Create a dir in default path
 
 ```
 hadoop fs -mkdir /bigdata
@@ -41,7 +41,7 @@ hadoop fs -put samyak /bigdata ---- linux to hdfs
 hadoop fs -ls /bigdata ------ listing hadoop files
 ```
 
-- ### to read the file---
+- ### To read the file
 
 ```
 hadoop fs -cat /bigdata/samyak
@@ -52,7 +52,7 @@ sudhir
 shathak
 ```
 
-- ### to send the data from ext3 - hdfs
+- ### To send the data from ext3 - hdfs
 
 ```
 hadoop fs -mkdir /names
