@@ -1,4 +1,5 @@
-# Hadoop ver 2 Cluster Configuration (master1 one NN + DN),(slave1 one DN)+(slave2 one DN)
+# Hadoop Installation
+## Hadoop ver 2 Cluster Configuration (master1 one NN + DN),(slave1 one DN)+(slave2 one DN)
 
 - ### In windows vmnet1 configure the 4.4.4.10
 
